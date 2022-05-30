@@ -1,0 +1,22 @@
+segment_sources:
+  IA3BB7B6B:
+    type: origin_type
+    relation: translation
+    language: en
+  I577B7B71:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ff5da2ad9b9a446c8236dd687a12a5f3:
+    IA3BB7B6B: 35c42722979d4e368e5fd69a5f27c1d6
+    I577B7B71: 128188bf91b44fd2a7f420b18021a77b
+  028a18e970e44976a32bcdc9ba671cb0:
+    IA3BB7B6B: 55b8d1dcaa974823967a6aff322f048d
+    I577B7B71: 878200c3ebbf497f97f19895fc1eb2df
+  6f687b22a6c14b999a4e43ba91d0ae32:
+    IA3BB7B6B: b93a4308fd9b4028a08e0932064ff98a
+    I577B7B71: 3a40a15e661646c78c7aabd6ccf65012
+  b21691fa090146dc8fac1a76fa1f8954:
+    IA3BB7B6B: a0ed0f3b48154ae7ae9f267815d33325
+    I577B7B71: 59760013f9f9421db96b9a605b2ddcdb

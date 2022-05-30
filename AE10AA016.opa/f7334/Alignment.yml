@@ -1,0 +1,28 @@
+segment_sources:
+  IA3BB7B6B:
+    type: origin_type
+    relation: translation
+    language: en
+  I577B7B71:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  830eca25e6944257b1f366492c41f9f3:
+    IA3BB7B6B: 8cefe5cb712c43a79b8de894b5d292d4
+    I577B7B71: 2d724bb04276413b848ca674adf432b2
+  77c93040e5fc4193bd0234dda9986115:
+    IA3BB7B6B: 902c59bced8646dbb987721dedc0c90e
+    I577B7B71: 14f6cd9c32cb4f34b0d713e9ec599fbb
+  73dbc50cf5d4466ca9dbd1e20fae6765:
+    IA3BB7B6B: 06a4ce22f1a74adf8ee5ec566fb09549
+    I577B7B71: 788d2370fe4042b88d2cf0f1c5264eee
+  3cfddabf123e45baa25d167deff7007d:
+    IA3BB7B6B: f9c313ff64614cb6bf87bc6fbafa6dc7
+    I577B7B71: 7ba11e1937b844c88f4c3d14adc7faa4
+  ab90458d981540cc8d78b7aa5ffe5088:
+    IA3BB7B6B: b1bf78b76c9c4247adee5056614ae159
+    I577B7B71: aa2f6eb1a4504bd1ab4eed113b8f0ab6
+  8caa0047a2fd41d59a56b009d8b73012:
+    IA3BB7B6B: c7b9a3aaf5334b2d877a49faabda11b3
+    I577B7B71: 17ee251d050c403cb5e3067609a85771
